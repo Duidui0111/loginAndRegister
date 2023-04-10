@@ -1,0 +1,10 @@
+D:\login-service\src\main\java\shop\btwo\service\impl\UserServiceImpl.java
+D:\login-service\src\main\java\shop\btwo\LoginServiceApplication.java
+D:\login-service\src\main\java\shop\btwo\req\UserLoginReq.java
+D:\login-service\src\main\java\shop\btwo\config\GlobalCorsConfig.java
+D:\login-service\src\main\java\shop\btwo\controller\UserController.java
+D:\login-service\src\main\java\shop\btwo\mapper\UserMapper.java
+D:\login-service\src\main\java\shop\btwo\req\UserSaveReq.java
+D:\login-service\src\main\java\shop\btwo\resq\CommonResp.java
+D:\login-service\src\main\java\shop\btwo\service\UserService.java
+D:\login-service\src\main\java\shop\btwo\entity\User.java
